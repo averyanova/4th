@@ -1,0 +1,10 @@
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\bin\Debug\4 лаба.exe.config
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\bin\Debug\4 лаба.exe
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\bin\Debug\4 лаба.pdb
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\4 лаба.csprojAssemblyReference.cache
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\_4_лаба.Form1.resources
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\_4_лаба.Properties.Resources.resources
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\4 лаба.csproj.GenerateResource.cache
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\4 лаба.csproj.CoreCompileInputs.cache
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\4 лаба.exe
+C:\Users\ЭКСПЕРТ\Desktop\домашка ИРНИТУ\технология программирования\4 лаба\obj\Debug\4 лаба.pdb
